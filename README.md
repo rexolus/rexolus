@@ -1,16 +1,27 @@
-## Hi there 👋
+# REXOLUS
 
-<!--
-**rexolus/rexolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Creative Software & Automation Tools**
 
-Here are some ideas to get you started:
+Independent software development by **Maxim Gorshkov**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools for graphic design, Adobe applications, print production and creative workflows.
+
+---
+
+### Projects
+
+**JuhAuto** — Adobe Illustrator automation plugin.
+
+**JuhCode** — Custom software and creative tools.
+
+**JuhPS** — Batch PostScript printing for Adobe InDesign. Uses existing print presets and generates individual PS files with names taken from labeled text frames.
+
+**JuhRecorder** — Experimental action recorder for Adobe InDesign.
+
+---
+
+### Website
+
+[rexolus.ru](https://rexolus.ru)
+
+*Independent software. Designed and developed by Maxim Gorshkov.*
